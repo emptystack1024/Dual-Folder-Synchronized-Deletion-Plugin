@@ -36,9 +36,8 @@ python sync_file_viewer.py
 
 ## 演示视频
 
-<video src="./video/2025-04-30 10-30-23.mkv"></video>
+![演示视频](https://github.com/emptystack1024/Dual-Folder-Synchronized-Deletion-Plugin/edit/main/video/demo.gif)
 
-*注意：实际使用时请将demo_video.mp4替换为您的实际演示视频文件。*
 
 ## 项目结构
 
