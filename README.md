@@ -36,7 +36,10 @@ python sync_file_viewer.py
 
 ## 演示视频
 
-<video src="./video/demo.mp4" controls="controls" width="500" height="300"></video>
+
+
+https://github.com/user-attachments/assets/684e94ab-95f9-40eb-8d83-211804044c3c
+
 
 
 ## 项目结构
