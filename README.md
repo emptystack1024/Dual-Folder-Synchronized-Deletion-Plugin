@@ -36,7 +36,7 @@ python sync_file_viewer.py
 
 ## 演示视频
 
-<video src="./video/demo.mp4" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/emptystack1024/Dual-Folder-Synchronized-Deletion-Plugin/edit/main/video/demo.mp4" controls="controls" width="500" height="300"></video>
 
 
 ## 项目结构
