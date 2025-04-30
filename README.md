@@ -36,10 +36,7 @@ python sync_file_viewer.py
 
 ## 演示视频
 
-<video width="640" height="360" controls>
-  <source src="./video/2025-04-30 10-30-23.mkv" type="video/mp4">
-  您的浏览器不支持视频标签，请使用支持HTML5的现代浏览器查看。
-</video>
+<video src="./video/2025-04-30 10-30-23.mkv"></video>
 
 *注意：实际使用时请将demo_video.mp4替换为您的实际演示视频文件。*
 
